@@ -23,3 +23,8 @@ class Solution {
     }
     
 }
+class dashabi{
+	public void print() {
+		System.out.println("da sha bi");
+	}
+}
